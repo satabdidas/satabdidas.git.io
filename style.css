@@ -1,0 +1,114 @@
+.nav a {
+    font-size : 20px;
+    font-weight : bold;
+    padding-left : 20px;
+    text-transform : uppercase;
+}
+
+.nav li {
+    display : inline;
+}
+
+.jumbotron {
+    background-image : url("../DSC_0750.JPG");
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+
+.jumbotron h1 {
+    padding-right : 50%;
+    font-family : 'Libre Baskerville', serif;
+    text-align : center; 
+    color : #5a5a5a;
+}
+
+.jumbotron span {
+    position : relative;
+    left : 100x;
+}
+
+.usually-i-am {
+    width : 100%;
+    margin-top : 10%;
+}
+
+.usually-i-am h1 {
+    text-align : center;
+    margin-bottom : 10%;
+    font-family : 'Josefin Slab', serif;
+}
+
+.usually-i-am p {
+    font-family : 'Josefin Slab', serif;
+    font-size : 18px;
+}
+
+.usually-i-am img {
+    padding-top : 20px;
+    padding-left : 20px;
+    padding-right : 20px
+}
+
+.usually-i-am .caption p {
+    padding-left : 10px;
+}
+
+.usually-i-am h3 {
+    text-align : center;
+    font-family : 'Josefin Slab', serif;
+    height : 70px;
+}
+
+.other-attribs {
+    background-image : url("../imgs/DSC_0750_rest.JPG");
+    background-repeat : no-repeat;
+    background-size : cover;
+    min-height : 800px;
+}
+
+.other-attribs {
+    color : #ffffff;
+    font-family : 'Libre Baskerville', serif;
+}
+
+.other-attribs .panel {
+    margin : 80px;
+    background-color : transparent; 
+}
+
+.other-attribs .bringdown {
+    margin-top : 90px;
+}
+
+.other-attribs h3 {
+    color : #5a5a5a;
+}
+
+.other-attribs .panel-default {
+    background-color : transparent;
+}
+
+.down-menu1 {
+    margin-left : 50%;
+    font-size : 50px;
+    color : #ffffff;
+}
+
+.down-menu2 {
+    margin-left : 50%;
+    font-size : 50px;
+}
+
+.up-menu {
+    margin-left : 50%;
+    font-size : 50px;
+    color : #ffffff;
+}
+
+.down-button {
+    margin-top : 15%;
+}
+
+.mid-button {
+    
+}
